@@ -2,16 +2,10 @@
 ## 单目标识别感知demo
 [演示视频](./ods.mp4)
 
-<video width="640" height="360" controls>
-  <source src="./ods.mp4" type="video/mp4">
-</video>
 
 ## 多目标识别感知demo
 [演示视频](./odd.mp4)
 
-<video width="640" height="360" controls>
-  <source src="https://komorebi22222.github.io/GraduationDesignDemo/ods.mp4" type="video/mp4">
-</video>
 
 ## 单目标主动追踪
 ### 第三人称demo
