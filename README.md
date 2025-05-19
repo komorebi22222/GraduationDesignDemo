@@ -1,6 +1,6 @@
 # GraduationDesignDemo
 ## 单目标识别感知demo
-[演示动图](./ods.gif)
+![演示动图](./ods.gif)
 [演示视频](./ods.mp4)
 
 ## 多目标识别感知demo
