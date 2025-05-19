@@ -8,13 +8,26 @@
 
 ## 多目标识别感知demo
 [演示视频](./odd.mp4)
+
+<video width="640" height="360" controls>
+  <source src="https://komorebi22222.github.io/GraduationDesignDemo/ods.mp4" type="video/mp4">
+</video>
+
 ## 单目标主动追踪
 ### 第三人称demo
 [演示视频](./ats.mp4)
+
+
 ### 第一人称demo
 [演示视频](./atsplt.mp4)
+
+
 ## 多目标主动追踪
 ### 第三人称demo
 [演示视频](./atd.mp4)
+
+
 ### 第一人称demo
 [演示视频](./atdplt.mp4)
+
+
